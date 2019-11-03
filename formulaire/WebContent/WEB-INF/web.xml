@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<!-- avec les annotations, pas besion de ça: -->
+	<!-- <servlet> -->
+	<!-- <servlet-name>Inscription</servlet-name> -->
+	<!-- <servlet-class>formulaire.servlets.Inscription</servlet-class> -->
+	<!-- </servlet> -->
+
+	<!-- <servlet-mapping> -->
+	<!-- <servlet-name>Inscription</servlet-name> -->
+	<!-- <url-pattern>/inscription</url-pattern> -->
+	<!-- </servlet-mapping> -->
+</web-app>
